@@ -40,12 +40,5 @@ The Customer Behavior Analysis Dashboard is an interactive Power BI project desi
 * Analyzed purchasing trends across demographics and product categories.
 * Improved understanding of subscription adoption patterns.
 * Enabled data-driven recommendations for marketing, sales, and customer retention strategies.
-# Skills Demonstrated
-* Data Cleaning & Transformation
-* Data Modeling
-* DAX Measures & KPIs
-* Interactive Dashboard Design
-* Customer Segmentation Analysis
-* Business Intelligence & Data Storytelling
 
-Screenshot of Dashboard: ![Alt text](
+Screenshots of Dashboard: ![Alt text](https://github.com/Faizsheikhu815/Customer-trends-data-analysis-python-SQL-Power-BI/blob/main/Snapshot%20of%20Dashboard.jpeg)
